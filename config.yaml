@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://hoho-whu.github.io/myblog/
 languageCode: zh-cn
 title: 你好！我是周晓彤
 theme: air
