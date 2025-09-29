@@ -1,4 +1,4 @@
-baseURL: https://hoho-whu.github.io/myblog/
+baseURL: "/"
 languageCode: zh-cn
 title: 你好！我是周晓彤
 theme: air
@@ -9,7 +9,7 @@ defaultContentLanguage: zh-cn
 params:
   author:
     name: 张艺术家
-    siteUrl: https://example.com/
+    siteUrl: https://hoho-whu.github.io/myblog/
   # 主题色
   mainColor: "#2563eb"
   # 页脚信息
