@@ -15,6 +15,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read
 
 # 只允许一个并发部署
 concurrency:
@@ -31,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.150.1
+      HUGO_VERSION: 0.132.0
     steps:
       - name: 安装 Hugo CLI
         run: |
