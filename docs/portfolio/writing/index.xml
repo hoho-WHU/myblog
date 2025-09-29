@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文 on 你好！我是周晓彤</title>
+    <link>https://hoho-whu.github.io/myblog/portfolio/writing/</link>
+    <description>Recent content in 文 on 你好！我是周晓彤</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hoho-whu.github.io/myblog/portfolio/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>时间的重量</title>
+      <link>https://hoho-whu.github.io/myblog/portfolio/writing/time-weight/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hoho-whu.github.io/myblog/portfolio/writing/time-weight/</guid>
+      <description>时间是什么？它既轻如鸿毛，又重如泰山。在匆忙的都市生活中，我们常常感到时间不够用，仿佛它是最珍贵的货币&amp;hellip;</description>
+    </item>
+    <item>
+      <title>城市的呼吸</title>
+      <link>https://hoho-whu.github.io/myblog/portfolio/writing/city-breath/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hoho-whu.github.io/myblog/portfolio/writing/city-breath/</guid>
+      <description>城市是活的，它有自己的呼吸节奏。清晨，城市苏醒，车流开始涌动，像血液在血管中流淌&amp;hellip;</description>
+    </item>
+    <item>
+      <title>风的消息</title>
+      <link>https://hoho-whu.github.io/myblog/portfolio/writing/wind-message/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hoho-whu.github.io/myblog/portfolio/writing/wind-message/</guid>
+      <description>风带来了远方的消息，穿过山川，越过湖泊，在我的窗前停留。它说着我听不懂的语言，却能读懂它眼中的忧伤&amp;hellip;</description>
+    </item>
+    <item>
+      <title>夜思</title>
+      <link>https://hoho-whu.github.io/myblog/portfolio/writing/night-thoughts/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hoho-whu.github.io/myblog/portfolio/writing/night-thoughts/</guid>
+      <description>星星点点的灯火，是城市的眼睛，在黑夜中闪烁。每一盏灯背后，都有一个故事，关于爱，关于梦想&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
