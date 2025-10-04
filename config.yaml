@@ -1,6 +1,6 @@
-baseURL: "/"
+baseURL: "https://hoho-whu.github.io/myblog"
 languageCode: zh-cn
-title: 你好！我是周晓彤
+title: 你好
 theme: air
 
 # 支持多语言
@@ -8,12 +8,12 @@ defaultContentLanguage: zh-cn
 
 params:
   author:
-    name: 张艺术家
+    name: Dawn
     siteUrl: https://hoho-whu.github.io/myblog/
   # 主题色
   mainColor: "#2563eb"
   # 页脚信息
-  footer: "© 2025 张艺术家 - 个人作品展示"
+  footer: "© 2025 Dawn - Website"
 
 menu:
   main:
